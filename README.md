@@ -9,4 +9,5 @@ grails-lecoincoin-nadaneikram-kholteioumaima created by GitHub Classroom
 - Le bouton new annonce nous permettra d’ajouter une nouvelle annonce avec tous les critères cités auparavant. On pourra et la mettre à jour grâce au bouton édit et la supprimer grâce à delete une annonce. 
 - Log out est un bouton qui vous déconnectera directement. 
 - Et finalement la rubrique Contact pour nous contacter.
+- Vous trouverez ci-joint la vidéo expliquant ceci en détail : 
 https://drive.google.com/file/d/1CJJLEs75PBlQ4nEqGdcbLE4uGup4uJgO/view?usp=drive_web
